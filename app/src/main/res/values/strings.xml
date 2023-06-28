@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trip Time</string>
+    <string name="calculate_trip">Trip Cost Calculator</string>
+    <string name="distance">Distância (Km)</string>
+    <string name="consumo">Consumo (L/100Km)</string>
+    <string name="trip_amount">Valor da Viagem: %s €</string>
+    <string name="type">Gasóleo ? 1,65€/L</string>
+    <string name="type2">Gasolina ? 1,90€/L</string>
+</resources>
